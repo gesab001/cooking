@@ -7,6 +7,44 @@
 
 <h1>COOKING</h1>
 
+<div id="containerList">
+</div>
+
 </body>
 
+<script>
+function loadTitles(data){
+    console.log("loadtitles");
+	console.log( Object.keys(data).length);
+	var containerList = document.getElementById("containerList");
+	var items = data["items"];
+	var ulEl = document.createElement("UL");
+	for (item in items){
+	  console.log(item);
+	  var liEl = document.createElement("LI");
+	  var aEl = document.createElement("A");
+	  var filename = items[item]["filename"];
+	  var title = items[item]["title"];
+	  aEl.href = "./recipes/"+filename;
+	  aEl.innerHTML = title;
+	  liEl.appendChild(aEl);
+	  ulEl.appendChild(liEl);
+	}
+	containerList.appendChild(ulEl);
+
+	
+	
+}
+
+function fetchTitles(filename){
+	console.log("fetchTitles");
+fetch(filename)
+  .then((response) => response.json())
+  .then(loadTitles);
+  
+}
+
+
+fetchTitles("recipes.json");
+</script>
 </html>

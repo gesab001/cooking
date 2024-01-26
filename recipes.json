@@ -1,0 +1,20 @@
+{
+    "items": {
+        "apple_sauce": {
+            "filename": "apple_sauce.jpeg",
+            "title": "Apple Sauce"
+        },
+        "chocolate_muffin": {
+            "filename": "chocolate_muffin.pdf",
+            "title": "Chocolate Muffin"
+        },
+        "garlic_cheese_crackers": {
+            "filename": "garlic_cheese_crackers.pdf",
+            "title": "Garlic Cheese Crackers"
+        },
+        "scones": {
+            "filename": "scones.jpg",
+            "title": "Scones"
+        }
+    }
+}
