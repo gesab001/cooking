@@ -4,6 +4,10 @@
             "filename": "apple_sauce.jpeg",
             "title": "Apple Sauce"
         },
+        "baking_powder": {
+            "filename": "baking_powder.pdf",
+            "title": "Baking Powder"
+        },
         "chocolate_muffin": {
             "filename": "chocolate_muffin.pdf",
             "title": "Chocolate Muffin"
