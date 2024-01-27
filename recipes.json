@@ -19,6 +19,10 @@
         "scones": {
             "filename": "scones.jpg",
             "title": "Scones"
+        },
+        "sugar": {
+            "filename": "sugar.pdf",
+            "title": "Sugar"
         }
     }
 }
