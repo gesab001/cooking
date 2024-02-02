@@ -8,6 +8,10 @@
             "filename": "baking_powder.jpeg",
             "title": "Baking Powder"
         },
+        "chocolate_chip_cookies": {
+            "filename": "chocolate_chip_cookies.pdf",
+            "title": "Chocolate Chip Cookies"
+        },
         "chocolate_muffin": {
             "filename": "chocolate_muffin.pdf",
             "title": "Chocolate Muffin"
