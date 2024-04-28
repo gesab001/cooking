@@ -15,6 +15,10 @@
         "scones": {
             "filename": "scones.jpg",
             "title": "Scones"
+        },
+        "soft_chocolate_chip_cookies": {
+            "filename": "soft_chocolate_chip_cookies.pdf",
+            "title": "Soft Chocolate Chip Cookies"
         }
     }
 }
