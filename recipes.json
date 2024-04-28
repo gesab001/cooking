@@ -4,6 +4,14 @@
             "filename": "apple_sauce.jpeg",
             "title": "Apple Sauce"
         },
+        "baking_powder": {
+            "filename": "baking_powder.jpeg",
+            "title": "Baking Powder"
+        },
+        "chocolate_chip_cookies": {
+            "filename": "chocolate_chip_cookies.pdf",
+            "title": "Chocolate Chip Cookies"
+        },
         "chocolate_muffin": {
             "filename": "chocolate_muffin.pdf",
             "title": "Chocolate Muffin"
@@ -16,9 +24,15 @@
             "filename": "scones.jpg",
             "title": "Scones"
         },
+<<<<<<< HEAD
         "soft_chocolate_chip_cookies": {
             "filename": "soft_chocolate_chip_cookies.pdf",
             "title": "Soft Chocolate Chip Cookies"
+=======
+        "sugar": {
+            "filename": "sugar.jpeg",
+            "title": "Sugar"
+>>>>>>> b53807fbaa7dc863288f3a2d6720bdb343667efe
         }
     }
 }
