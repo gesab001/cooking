@@ -20,19 +20,21 @@
             "filename": "garlic_cheese_crackers.pdf",
             "title": "Garlic Cheese Crackers"
         },
+        "quick_and_easy_birthday_cake": {
+            "filename": "quick_and_easy_birthday_cake.pdf",
+            "title": "Quick And Easy Birthday Cake"
+        },
         "scones": {
             "filename": "scones.jpg",
             "title": "Scones"
         },
-<<<<<<< HEAD
         "soft_chocolate_chip_cookies": {
             "filename": "soft_chocolate_chip_cookies.pdf",
             "title": "Soft Chocolate Chip Cookies"
-=======
+        },
         "sugar": {
             "filename": "sugar.jpeg",
             "title": "Sugar"
->>>>>>> b53807fbaa7dc863288f3a2d6720bdb343667efe
         }
     }
 }
